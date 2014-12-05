@@ -1,0 +1,13 @@
+{
+  "name": "project-starter",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "bower",
+    "test",
+    "tests"
+  ]
+}
